@@ -1,20 +1,16 @@
 :root {
-  /* Fonts */
   --main-font: 'Roboto';
   --logo-font: 'Raleway';
 
-  /* Text colors */
   --main-text-color: #212121;
   --description-text-color: #757575;
   --accent-project-color: #2196f3;
   --header-logo-color: #000000;
 
-  /* Background colors */
   --main-bg-color: #ffffff;
   --dark-bg-color: #2f303a;
   --transp-bg-color: rgba(47, 48, 58, 0.8);
 
-  /* Others */
   --contacts-footer-color: rgba(255, 255, 255, 0.6);
   --team-bg-color: #f5f4fa;
   --projects-bg-color: #eeeeee;
@@ -40,6 +36,7 @@ body {
 .list {
   list-style: none;
 }
+
 h1,
 h2,
 h3,
